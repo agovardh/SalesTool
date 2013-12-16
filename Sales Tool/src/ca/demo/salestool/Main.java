@@ -12,9 +12,12 @@ public class Main {
 	}
 	
 	private static void dispalyGreeting() {
-		System.out.println("Hello Happy Sales People !");
-		System.out.println ("This app Shows Sales Data");
+		System.out.println("Hello Happy Sales People in US !!!");
+		System.out.println ("This Application Shows Sales Data");
 		System.out.println ("-------------------------");
+		
+		
+		
 		
 		System.out.println(" This is second last line of Main");
 		System.out.println(" This is last line of Main");
